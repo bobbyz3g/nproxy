@@ -1,5 +1,7 @@
 # nproxy
 
+Moved to https://github.com/Kaiser925/dev-toolkit
+
 nproxy is a simple tcp net proxy tool.
 
 ```
